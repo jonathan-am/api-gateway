@@ -1,0 +1,23 @@
+{
+	"payment": {
+		"type": "card",
+		"data": {
+				"number": "3210302103210333",
+				"digit": "332",
+				"holder": "Jonathan A Moura",
+				"validity": "10/12/2029",
+				"document": "04553045052"
+			}
+	},
+	"item": {
+		"name": "teste rabbit",
+		"quantity": 10,
+		"unitPrice": "10.32"
+	},
+	"value": 103.2,
+	"billing": {
+		"name": "teste",
+		"lastname": "moura",
+		"address": "teste 321 teste"
+	}
+}
